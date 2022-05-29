@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/anthoine-saint-germain-465248221" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/Sekito_93" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 ----
 
-Je m'appelle Anthoine et je suis actuellement étudiant chez O'clock, une superbe école pour devenir développeur web !
+Je suis actuellement étudiant chez O'clock, une superbe école pour devenir développeur web !
 J'y ai appris pas mal de techno et à me servir de  moultes logicielles
 
 Les logiciels : ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github) ![Insomnia](https://img.shields.io/badge/-Insomnia-white?style=plastic&logo=insomnia&logoColor=purple) ![Postman](https://img.shields.io/badge/-Postman-white?style=plastic&logo=postman) ![DBeaver](https://img.shields.io/badge/-DBeaver-orange?style=plastic) ![PgAdmin4](https://img.shields.io/badge/-PgAdmin4-orange?style=plastic&logo=PgAdmin4) ![Sublime_Merge](https://img.shields.io/badge/-Sublime_Merge-gray?style=plastic)
