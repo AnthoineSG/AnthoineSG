@@ -15,7 +15,7 @@ Côté Front : ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic
 Côté Back : ![NodeJS](https://img.shields.io/badge/-NodeJS-8fcfd9?style=plastic&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-205090?style=plastic&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb) ![Strapi](https://img.shields.io/badge/-Strapi-6756BE?style=plastic&logo=strapi)
 
 Je suis aussi en train d'apprendre :
-![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react) ![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=plastic&logo=typescript)
 
 ---
 
