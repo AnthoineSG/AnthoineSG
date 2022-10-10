@@ -185,11 +185,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoineSG&layout=compact&theme=dark&text_color=fed96b&border_color=fed96b&bg_color=273136&hide_title=true&langs_count=10&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnthoineSG&theme=dark&background=273136&ring=ffbf0059&fire=fed96b&sideNums=fed96b&currStreakLabel=fed96b&border=fed96b&stroke=ffbf0059)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
   <!-- <img width="700"
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AnthoineSG&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
   /> -->
@@ -197,6 +192,8 @@
 <img width="700"
     src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AnthoineSG&skills=JavaScript,TypeScript,CSS,HTML,PLpgSQL,EJS,Pug,SCSS,Shell,Vue,SAS,Python,PLSQL,JSON,SQL,JSon,ReactJS,NodeJS,Sequelize&bg=#273136&show-other-skills=true"
   />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnthoineSG&theme=dark&background=273136&ring=ffbf0059&fire=fed96b&sideNums=fed96b&currStreakLabel=fed96b&border=fed96b&stroke=ffbf0059)](https://git.io/streak-stats)
 
 </div>
 
