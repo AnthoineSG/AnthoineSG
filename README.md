@@ -48,7 +48,7 @@
   </a>
   &nbsp;
   <a href="http://getbem.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="40" />
   </a>
   &nbsp;
   <a href="https://mui.com/" target="_blank">
