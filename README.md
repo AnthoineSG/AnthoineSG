@@ -190,12 +190,14 @@
 </div>
 
 <div align="center">
-  <img width="700"
+  <!-- <img width="700"
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=AnthoineSG&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-  />
-  <img width="700"
+  /> -->
+
+<img width="700"
     src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AnthoineSG&skills=JavaScript,TypeScript,CSS,HTML,PLpgSQL,EJS,Pug,SCSS,Shell,Vue,SAS,Python,PLSQL,JSON,SQL,JSon,ReactJS,NodeJS,Sequelize&bg=#273136&show-other-skills=true"
   />
+
 </div>
 
 <div align="center">
