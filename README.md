@@ -77,10 +77,6 @@
   <a href="https://expressjs.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
   </a>
-  &nbsp;
-  <a href="https://graphql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
-  </a>
 </div>
 
 <h3 align="center">Database</h3>
@@ -149,6 +145,10 @@
 <div align="center">
   <a href="https://vuejs.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://graphql.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
   </a>
   &nbsp;
   <a href="https://firebase.google.com/" target="_blank">
