@@ -66,6 +66,14 @@
   <a href="https://webpack.js.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
   </a>
+  &nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwindcss" height="50" />
+  </a>
 </div>
 
 <h3 align="center">Backend Development</h3>
@@ -76,6 +84,10 @@
   &nbsp;
   <a href="https://expressjs.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://graphql.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
   </a>
 </div>
 
@@ -139,6 +151,18 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" height="50"/>
   </a>
+  &nbsp;
+  <a href="https://firebase.google.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://bitrise.io/" target="_blank">
+    <img style="margin: 10px" src="https://assets-global.website-files.com/5db35de024bb983af1b4e151/5e6f9ccda4e7ff12841abe18_Bitrise%20Logo%20-%20White%20Bg.png" alt="Bitrise" height="50" />
+  </a>
+  &nbsp;
+  <a href="https://app.netlify.com/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Netlify_logo_%282%29.svg/1200px-Netlify_logo_%282%29.svg.png" alt="netlify" height="50" />
+  </a>
 </div>
 
 <h3 align="center">I learn</h3>
@@ -147,24 +171,8 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
   </a>
   &nbsp;
-  <a href="https://graphql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
-  </a>
-  &nbsp;
-  <a href="https://firebase.google.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
-  </a>
-  &nbsp;
   <a href="https://nestjs.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="50"/>
   </a>
   &nbsp;
   <a href="https://www.gatsbyjs.com/" target="_blank">
